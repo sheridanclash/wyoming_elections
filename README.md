@@ -1,4 +1,4 @@
-# wyoming_elections
+# Wyoming_Elections
 Repo for Wyoming Election data
 
 # Data Source:
